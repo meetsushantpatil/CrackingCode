@@ -13,8 +13,8 @@ def bubble_sort(list):
         if(sorted):
             break;
     print("Sorted list is" + str(list));
-    print("Steps needed for " + str(len(list)) + " elements is " + str(step_counter));
+    print("Steps needed for " + str(len(list)) + " elements : " + str(step_counter));
 
-a = [1, 2 ,3, 4, 5];
+a = [70, 15 ,78, 2, 0];
 bubble_sort(a);
 
