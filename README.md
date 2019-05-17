@@ -1,2 +1,5 @@
 # CrackingCode
-A daily code blog, with problem and solutions
+Educational Code Snippets
+
+
+1. **Bubble Sort**
