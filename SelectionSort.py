@@ -1,9 +1,10 @@
 
 ##Code to do Bubble Sort###
 
-##Keep left part of the array sorted
+# Keep left part of the array sorted
+# Big O : O(N*N)
 
-global step_counter;
+#global step_counter;
 step_counter = 0;
 
 def selection_sort(list):
@@ -34,7 +35,6 @@ def find_smallest(list):
 
 
 a = [0, 11, 2, -7, 200];
-#print(find_smallest(a));
 selection_sort(a);
 
 

@@ -1,6 +1,9 @@
 
 ##Code to do Bubble Sort###
 
+# Principle : Compare every element with every other, swap when you see bigger element
+# Big O : O(N*N)
+
 def bubble_sort(list):
     sorted = True;
     step_counter = 0;
